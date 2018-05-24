@@ -1,4 +1,4 @@
-# epimd
+# epimdr
 
 package: epimdr
 
