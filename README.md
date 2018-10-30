@@ -1,5 +1,8 @@
 Epidemics: Models and Data in R
 
+by Ottar N. Bjornstad (ISBN 978-3-319-97487-3) <https://www.springer.com/gp/book/9783319974866>
+
+
 rcode.zip
 
 file containing all the rcode chunks in the book numbered by chapter-section-chunk.
