@@ -5,7 +5,11 @@ by Ottar N. Bjornstad (ISBN 978-3-319-97487-3) <https://www.springer.com/gp/book
 
 rcode.zip
 
-file containing all the rcode chunks in the book numbered by chapter-section-chunk.
+A file containing all the rcode chunks in the book numbered by chapter-section-chunk.
+
+allapps3.R
+
+A file containing source code for all shiny-apps in book (as well as some others)
 
 mov/
 
