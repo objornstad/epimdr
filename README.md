@@ -19,4 +19,4 @@ The most recent version can be installed from CRAN:
 [![CRAN Status](https://www.r-pkg.org/badges/version/epimdr)](https://cran.r-project.org/package=epimdr)
 [![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/epimdr)](https://www.r-pkg.org/pkg/epimdr)
 
-All code was written by Ottar N. Bjornstad (onb1@psu.edu) and is licensed under the Creative Commons attribution-noncommercial license (http://creativecommons.org/licenses/by-nc/3.0/). Please share & remix non-commercially, mentioning its origin.
+All code was written by Ottar N. Bjornstad (onb1@psu.edu) and is licensed under the CC-BY-NC Creative Commons attribution-noncommercial license (http://creativecommons.org/licenses/by-nc/3.0/). Please share & remix non-commercially, mentioning its origin.
