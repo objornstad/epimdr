@@ -6,9 +6,6 @@ Errata -- I already found a mistake
 
 allapps3.R -- A file containing source code for all shiny-apps in book (as well as some others)
 
-rcode.zip -- A file containing all the rcode chunks in the book numbered by chapter-section-chunk.
-
-
 mov/ -- web-optimized animated gif's for the book.
 
 The EPIMDR-package
