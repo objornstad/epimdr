@@ -2,11 +2,13 @@ Epidemics: Models and Data in R
 
 by Ottar N. Bjornstad (ISBN 978-3-319-97487-3) <https://www.springer.com/gp/book/9783319974866>
 
-Errata -- I already found a mistake
+Errata -- I already found a mistake.
 
 allapps3.R -- A file containing source code for all shiny-apps in book (as well as some others)
 
 mov/ -- web-optimized animated gif's for the book.
+
+syllabus.pdf -- The 15 week (3 hrs / week) syllabus for the class I'll be teaching this spring.
 
 The EPIMDR-package
 
