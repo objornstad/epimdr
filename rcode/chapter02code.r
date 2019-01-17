@@ -168,8 +168,8 @@ exp(-2)-uniroot(fn, lower = 0, upper = 1-1E-9,
 ###################################################
 require(phaseR)
 #Plot vector field
-fld = flowField(simod, x.lim = c(0.15,0.35), 
-     y.lim = c(0,.01), parameters = parms, system = "two.dim", 
+fld = flowField(simod, xlim = c(0.15,0.35), 
+     ylim = c(0,.01), parameters = parms, system = "two.dim", 
      add = FALSE, ylab = "I", xlab = "S")
 #Add trajectory
 out = as.data.frame(ode(y = c(S = 0.19, I = 0.01), 
@@ -426,7 +426,7 @@ server = function(input, output) {
     ylab="Fraction infected", type="l")
   title(paste("R0=", R0))
   #Add vector field
-  fld=flowField(simod, x.lim=range(out$S), y.lim=
+  fld=flowField(simod, xlim=range(out$S), ylim=
     range(out$I), parameters=parms, system="two.dim", 
     add=TRUE, ylab="I", xlab="S")
   #Add isoclines
