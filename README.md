@@ -4,7 +4,7 @@ by Ottar N. Bjornstad (ISBN 978-3-319-97487-3) <https://www.springer.com/gp/book
 
 Errata -- I already found a mistake.
 
-allapps3.R -- A file containing source code for all shiny-apps in book (as well as some others)
+allapps3.R -- source code for all shiny-apps in book (as well as some others)... Moved to https://github.com/objornstad/oshinys/source/oshinys/R
 
 mov/ -- web-optimized animated gif's for the book.
 
