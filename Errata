@@ -1,4 +1,4 @@
-Bottom page 20 and SIR.app: flowField-function has changed arguments from "x.lim" and "y.lim" to "xlim" and "ylim" (this is corrected in the package on online code  but not print) 
-
+Bottom page 20 and SIR.app: flowField-function has changed arguments from "x.lim" and "y.lim" to "xlim" and "ylim" 
+(this is corrected in the package on online code  but not print) 
 
 Top page 40: should be \beta = 1.89 (CI: 1.82, 1.97) not \beta = 1.89 (CI: 1.82, 1.7)
