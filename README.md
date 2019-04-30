@@ -6,7 +6,7 @@ CHECK OUT Simon Frosts http://epirecip.es/epicookbook/chapters/ob18/c5/r for an 
 
 Errata -- I already found a mistake.
 
-allapps3.R -- source code for all shiny-apps in book (as well as some others)... Moved to https://github.com/objornstad/oshinys/source/oshinys/R
+allapps3.R -- source code for all shiny-apps in book (as well as some others)... Moved to https://github.com/objornstad/oshinys/source/oshinys/
 
 mov/ -- web-optimized animated gif's for the book.
 
