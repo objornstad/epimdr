@@ -6,6 +6,8 @@
 ###################################################
 ### code chunk number 2: c2-s2-2
 ###################################################
+require(deSolve)
+
  sirmod=function(t, y, parms){
    #Pull state variables from y vector
    S=y[1]
