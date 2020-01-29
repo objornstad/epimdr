@@ -5,4 +5,6 @@ Page 30. The legend for isoclines in shiny App is swapped.
 
 Top page 40: should be \beta = 1.89 (CI: 1.82, 1.97) not \beta = 1.89 (CI: 1.82, 1.7)
 
+Low page 53: should be 
+Step 2: All new infections $dE/dt = \beta S I / N$, $dI/dt =0$, $dH/dt=0$, $dF/dt=0$
 
