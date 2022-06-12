@@ -16,8 +16,8 @@ CHECK OUT Simon Frosts http://epirecip.es/epicookbook/chapters/ob18/c5/r for an 
 
 Errata -- I already found a mistake.
 
-source code for all shiny-apps in book (as well as some others) moved to https://github.com/objornstad/oshinys
+source code for all shiny-apps in book (as well as some others) moved to https://github.com/objornstad/ecomodelmarkdowns
 
 mov/ -- web-optimized animated gif's for the book.
 
-syllabus.pdf -- The 15 week (3 hrs / week) syllabus for the class I'll be teaching this spring.
+syllabus.pdf -- The 15 week (3 hrs / week) syllabus for the class I taught in 2018.
